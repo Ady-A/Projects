@@ -1,0 +1,13 @@
+.sub-wrapper{
+  padding: 7px 0px 7px 7px;
+  border: 1px solid black;
+  max-width: 690px;
+  background-color: #F7FFF2;
+  opacity: 0.7;
+  transition: 0.3s;
+  margin: 0 auto;
+}
+
+.sub-wrapper:hover {
+  opacity: 1
+}
