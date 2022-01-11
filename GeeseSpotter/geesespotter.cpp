@@ -1,3 +1,8 @@
+////////////////////////////////////
+//  For This File:
+// Author: Ady Alhamdan
+////////////////////////////////////
+
 #include "geesespotter_lib.h"
 
 void clear_adj_zero(char * board, std::size_t xdim, std::size_t ydim, char * old_board);
